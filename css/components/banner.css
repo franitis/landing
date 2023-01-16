@@ -1,0 +1,19 @@
+.banner {
+  background-image: url(https://4.bp.blogspot.com/-61QiqvUfvbc/V2FUE1OIOaI/AAAAAAAACQE/HrRtsHZYsWA9YWabwK8tDaQPWmUz57GPgCLcB/w1200-h630-p-k-no-nu/boston-celtics-logo-wallpaper.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner h1 {
+  color: rgb(139,111,78);
+  text-shadow: 2px 2px rgb(150,56,33);
+  font-weight: bold;
+}
+
+.banner p {
+  color: rgb(139,111,78);
+  text-shadow: 2px 2px rgb(150,56,33);
+  font-weight: bold;
+  font-size: 20px;
+}

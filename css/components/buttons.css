@@ -1,0 +1,29 @@
+.btn-primary {
+  background-color: #BA9653;
+  padding: 20px;
+  border-radius: 50px;
+  display: inline-block;
+}
+
+.btn-primary:hover {
+  background-color: #963821;
+  text-decoration: none;
+  padding: 20px;
+  border-radius: 50px;
+  display: inline-block;
+}
+
+.footer a {
+  padding: 8px 16px;
+  color: rgb(139,111,78);
+  font-size: 40px;
+  border-radius: 50px;
+}
+
+.footer a:hover {
+  padding: 8px 16px;
+  color: #963821;
+  font-size: 40px;
+  border-radius: 50px;
+  text-shadow: 2px 2px rgb(139,111,78);
+}
